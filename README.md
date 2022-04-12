@@ -5,5 +5,5 @@
    - Demo: (https://capstone-project-kohl-chi.vercel.app/)
    - Repository: (https://github.com/wolkemann/capstone-project)
    ### Geschichte Engine
-   The Geschichte Engine is a library written to create dynamic and animated Visual Novels. At the moment this project is getting a complete overhaul to improve to code and make it more readble ad developer-friendly. You can still, however, play the demo.
+   The Geschichte Engine is a library written to create dynamic and animated Visual Novels. At the moment the project is getting a complete overhaul to improve to code and make it more readble and developer-friendly. You can still, however, play the demo.
    - Demo: (https://wolkemann.net/geschengine/)
