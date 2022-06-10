@@ -7,7 +7,7 @@
    ### Geschichte Engine
    The Geschichte Engine is a library written to create dynamic and animated Visual Novels. At the moment the project is getting a complete overhaul to improve to code and make it more readble and developer-friendly. You can still, however, play the demo.
    - Demo: https://wolkemann.net/geschengine
-   - Early Dev Repository: https://github.com/wolkemann/g-engine
+   - Repository: https://github.com/wolkemann/g-engine
 
    ### PeaceBEATS 
    PeaceBeats is a musical experiments where you can play with little interactive 3D musical scenes to relax with. PeaceBeats is still in early alpha, but in the future it will be structured so every web developer can add her/his own 3D scene inside the App. The idea is to have a lot of different creative experiences from people across the world! 
